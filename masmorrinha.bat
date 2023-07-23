@@ -1,1 +1,1 @@
-gcc *.c -o rogue -ansi -pedantic-errors -Wall -Wpedantic -lpdcurses -O3
+gcc *.c -o masmorrinha -ansi -pedantic-errors -Wall -Wpedantic -lpdcurses -O3
